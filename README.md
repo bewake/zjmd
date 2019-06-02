@@ -8,67 +8,67 @@
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/gfw-breaker/banned-news/blob/master/pages/nsc422/n9862666.md">序言</a>
+            <a href="https://github.com/gfw-breaker/gczydzjmd.md/blob/master/chapters/preface.md">序言</a>
           </td>
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/gfw-breaker/banned-news/blob/master/pages/nsc422/n9865857.md">共产主义的终极目的(1)</a>
+            <a href="https://github.com/gfw-breaker/gczydzjmd.md/blob/master/chapters/c1.md">第一章 中心之国 神传文化</a>
           </td>
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/gfw-breaker/banned-news/blob/master/pages/nsc422/n9876205.md">共产主义的终极目的(2)</a>
+            <a href="https://github.com/gfw-breaker/gczydzjmd.md/blob/master/chapters/c2p1.md">第二章 红魔阴谋 毁灭人类（上）</a>
           </td>
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/gfw-breaker/banned-news/blob/master/pages/nsc422/n9879879.md">共产主义的终极目的(3)</a>
+            <a href="https://github.com/gfw-breaker/gczydzjmd.md/blob/master/chapters/c2p2.md">第二章 红魔阴谋 毁灭人类（下）</a>
           </td>
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/gfw-breaker/banned-news/blob/master/pages/nsc422/n9891246.md">共产主义的终极目的(4)</a>
+            <a href="https://github.com/gfw-breaker/gczydzjmd.md/blob/master/chapters/c3p1.md">第三章 暴力杀戮 恶贯穹宇（上）</a>
           </td>
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/gfw-breaker/banned-news/blob/master/pages/nsc422/n9893174.md">共产主义的终极目的(5)</a>
+            <a href="https://github.com/gfw-breaker/gczydzjmd.md/blob/master/chapters/c3p2.md">第三章 暴力杀戮 恶贯穹宇（下）</a>
           </td>
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/gfw-breaker/banned-news/blob/master/pages/nsc422/n9899359.md">共产主义的终极目的(6)</a>
+            <a href="https://github.com/gfw-breaker/gczydzjmd.md/blob/master/chapters/c4p1.md">第四章 共产邪灵 毁人不倦（上）</a>
           </td>
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/gfw-breaker/banned-news/blob/master/pages/nsc422/n9901176.md">共产主义的终极目的(7)</a>
+            <a href="https://github.com/gfw-breaker/gczydzjmd.md/blob/master/chapters/c4p2.md">第四章 共产邪灵 毁人不倦（下）</a>
           </td>
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/gfw-breaker/banned-news/blob/master/pages/nsc422/n9912488.md">共产主义的终极目的(8)</a>
+            <a href="https://github.com/gfw-breaker/gczydzjmd.md/blob/master/chapters/c5p1.md">第五章 邪灵篡位 文化沦丧（上）</a>
           </td>
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/gfw-breaker/banned-news/blob/master/pages/nsc422/n9916363.md">共产主义的终极目的(9)</a>
+            <a href="https://github.com/gfw-breaker/gczydzjmd.md/blob/master/chapters/c5p2.md">第五章 邪灵篡位 文化沦丧（下）</a>
           </td>
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/gfw-breaker/banned-news/blob/master/pages/nsc422/n9920883.md">共产主义的终极目的(10)</a>
+            <a href="https://github.com/gfw-breaker/gczydzjmd.md/blob/master/chapters/c6p1.md">第六章 以“恨”立国 国已不国（上）</a>
           </td>
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/gfw-breaker/banned-news/blob/master/pages/nsc422/n9924973.md">共产主义的终极目的(11)</a>
+            <a href="https://github.com/gfw-breaker/gczydzjmd.md/blob/master/chapters/c6p2.md">第六章 以“恨”立国 国已不国（下）</a>
           </td>
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/gfw-breaker/banned-news/blob/master/pages/nsc422/n9933272.md">共产主义的终极目的(12)</a>
+            <a href="https://github.com/gfw-breaker/gczydzjmd.md/blob/master/chapters/conclusion.md">结语</a>
           </td>
         </tr>
       </table>
